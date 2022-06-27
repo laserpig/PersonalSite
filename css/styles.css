@@ -1,0 +1,36 @@
+.top {
+    background-color: #D2FAFB;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 80px;
+    right: 650px;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.profile-pic {
+    height: 200px;
+}
+
+.comp-pic {
+    height: 200px;
+}
+body {
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 90px;
+}
+
+div {
+    text-align: center;
+}
